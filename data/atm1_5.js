@@ -1,0 +1,1 @@
+var json_atm1_5 = {"type":"FeatureCollection","name":"atm1_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"No":1.0,"Nama ATM":"Nagari","X":100.62821,"Y":-0.21997},"geometry":{"type":"Point","coordinates":[100.628206804911997,-0.219965968250575]}}]}
